@@ -45,4 +45,4 @@ packages:
   - name: "github.com/hugobyte/polkadot-kurtosis-package"
   - name: "github.com/hugobyte/dive-packages"
   - name: "github.com/logos-co/wadoku"
-  - name: "github.com/tedim52/kurtosis-cdk"
+  - name: "github.com/0xPolygon/kurtosis-cdk"
