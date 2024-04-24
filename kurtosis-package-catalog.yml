@@ -47,3 +47,4 @@ packages:
   - name: "github.com/logos-co/wadoku"
   - name: "github.com/0xPolygon/kurtosis-cdk"
   - name: "github.com/shamirlabs/diva-package"
+  - name: "github.com/tedim52/op-reth-package"
