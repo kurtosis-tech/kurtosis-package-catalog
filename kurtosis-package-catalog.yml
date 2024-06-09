@@ -48,3 +48,4 @@ packages:
   - name: "github.com/0xPolygon/kurtosis-cdk"
   - name: "github.com/shamirlabs/diva-package"
   - name: "github.com/tedim52/op-reth-package"
+  - name: "github.com/berachain/beacon-kit/kurtosis"
