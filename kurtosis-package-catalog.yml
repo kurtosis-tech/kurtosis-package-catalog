@@ -49,3 +49,5 @@ packages:
   - name: "github.com/shamirlabs/diva-package"
   - name: "github.com/tedim52/op-reth-package"
   - name: "github.com/berachain/beacon-kit/kurtosis"
+  - name: "github.com/tedim52/celestia-da-node-package"
+  - name: "github.com/tedim52/rollkit-package"
