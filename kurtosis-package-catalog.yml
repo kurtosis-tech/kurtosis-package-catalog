@@ -1,6 +1,6 @@
 packages:
   - name: "github.com/kurtosis-tech/autogpt-package"
-  - name: "github.com/kurtosis-tech/ethereum-package"
+  - name: "github.com/ethpandaops/ethereum-package"
   - name: "github.com/kurtosis-tech/agentgpt-package"
   - name: "github.com/kurtosis-tech/awesome-kurtosis/quickstart"
   - name: "github.com/kurtosis-tech/awesome-kurtosis/data-package"
