@@ -52,3 +52,4 @@ packages:
   - name: "github.com/tedim52/celestia-da-node-package"
   - name: "github.com/tedim52/rollkit-package"
   - name: "github.com/ethpandaops/optimism-package"
+  - name: "github.com/rollkti/gm"
