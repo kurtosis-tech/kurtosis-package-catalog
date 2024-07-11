@@ -11,7 +11,7 @@ packages:
   - name: "github.com/kurtosis-tech/awesome-kurtosis/simple-api/kurtosis-package"
   - name: "github.com/kurtosis-tech/awesome-kurtosis/flink-kafka-example/kurtosis-package"
   - name: "github.com/kurtosis-tech/near-package"
-  - name: "github.com/kurtosis-tech/hyperlane-package"
+  - name: "github.com/hyperlane-xyz/hyperlane-package"
   - name: "github.com/kurtosis-tech/postgres-package"
   - name: "github.com/kurtosis-tech/avalanche-package"
   - name: "github.com/kurtosis-tech/web3-tools"
