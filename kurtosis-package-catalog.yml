@@ -62,4 +62,4 @@ packages:
   - name: "github.com/LZeroAnalytics/ibc-package"
   - name: "github.com/LZeroAnalytics/graph-package"
   - name: "github.com/LZeroAnalytics/uniswap-package"
-  - name: "github.com/worldcoin/world-chain-package"
+  - name: "github.com/worldcoin/world-chain/devnet"
